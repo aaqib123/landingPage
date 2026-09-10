@@ -4,4 +4,4 @@ Simple personal-domain landing page.
 
 ## Usage
 
-Open `/home/runner/work/landingPage/landingPage/index.html` in a browser.
+Open `index.html` from the repository root in a browser.
